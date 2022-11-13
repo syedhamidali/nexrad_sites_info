@@ -55,7 +55,7 @@ def add_Map(ax, b = 0, t=0, l = 0, r = 0):
 # In[3]:
 
 
-df = pd.read_csv("https://raw.githubusercontent.com/syedhamidali/NEXRAD_SITES/main/nexrad_site_list.csv")
+df = pd.read_csv("nexrad_site_list.csv")
 
 
 # In[4]:
